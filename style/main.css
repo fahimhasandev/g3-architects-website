@@ -1,0 +1,41 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 1440px;
+  margin: 0 auto;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  margin-left: 40px;
+}
+
+/* Navigation */
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* margin-top: 40px; */
+  padding-top: 40px;
+}
+.nav {
+  display: flex;
+  /* justify-content: space-around; */
+}
+header {
+  height: 1322px;
+  background: #fff4e7;
+}
+
+/* Banner Section start here */
+.banner-text {
+  text-align: center;
+}
